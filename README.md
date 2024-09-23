@@ -9,7 +9,7 @@
 
 ### Status
 
-`Charlotte Core` is the successor to Charlotte Core our previous kernel in development. The kernel was redeveloped due to a
+`Charlotte Core` is the kernel of CharlotteOS. The kernel was redeveloped due to a
 lack of sufficient modularity and improper code organization which could not be easily refactored in place. `Charlotte Core` as it exists today is the result of that redevelopment though it does reuse a substantial amount of code from it's previous incarnation. A fork of the old Charlotte Core is available as an archive in the CharlotteOS GitHub organization.
 
 `Charlotte Core` is in very early development and does not yet support a userspace. Run it at your own risk.
